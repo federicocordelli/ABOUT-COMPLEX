@@ -200,7 +200,7 @@ push();
   textAlign(CENTER);
   textFont(intlMed);
   textSize(paragraphTextSize);
-  text("Wilfrid Izgrid", ((width/2)/6)*11, (height+100)-(scrall*0.2));
+  text("Wilfrid Izgren", ((width/2)/6)*11, (height+100)-(scrall*0.2));
 pop();
 /*
 if (about === 1) {
